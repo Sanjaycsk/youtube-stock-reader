@@ -1,12 +1,19 @@
 # Fetch latest transcripts and push them to the public data repo.
-# Schedule this with Windows Task Scheduler to run each morning (~08:00 IST),
-# before the Anthropic-cloud routine runs at 08:30 IST.
+# Scheduled via Task Scheduler with "wake to run", so it may start a few
+# seconds before Wi-Fi reconnects after sleep — hence the network waits below.
 $ErrorActionPreference = "Stop"
 Set-Location -Path $PSScriptRoot
 
-# Use the project venv if present, else system python.
 $py = Join-Path $PSScriptRoot ".venv\Scripts\python.exe"
 if (-not (Test-Path $py)) { $py = "python" }
+
+# Wait up to ~2 min for the network (Wi-Fi reconnect after wake).
+for ($i = 0; $i -lt 24; $i++) {
+    try {
+        Invoke-WebRequest -UseBasicParsing -Uri "https://github.com" -TimeoutSec 5 | Out-Null
+        break
+    } catch { Start-Sleep -Seconds 5 }
+}
 
 & $py fetch_transcripts.py
 
@@ -14,8 +21,12 @@ if (-not (Test-Path $py)) { $py = "python" }
 git add data/transcripts.json
 if (git status --porcelain data/transcripts.json) {
     git commit -m "transcripts: update $(Get-Date -Format yyyy-MM-dd)"
-    git push origin main
-    Write-Host "Pushed updated transcripts."
+    # Retry the push in case the network is still settling.
+    for ($i = 0; $i -lt 5; $i++) {
+        git push origin main
+        if ($LASTEXITCODE -eq 0) { Write-Host "Pushed updated transcripts."; break }
+        Start-Sleep -Seconds 15
+    }
 } else {
     Write-Host "No transcript changes to push."
 }
