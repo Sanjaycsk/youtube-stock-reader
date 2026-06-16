@@ -1,0 +1,20 @@
+{
+  "_comment": "Trusted stock YouTube channels. 'language' picks the transcript track (te=Telugu, ta=Tamil, en=English, hi=Hindi). Newest uploads are read each run.",
+  "channels": [
+    {
+      "name": "Day Trader Telugu",
+      "language": "te",
+      "urls": ["https://www.youtube.com/@daytradertelugu"]
+    },
+    {
+      "name": "Money Pechu",
+      "language": "ta",
+      "urls": ["https://www.youtube.com/@MoneyPechu"]
+    },
+    {
+      "name": "Pranjal Kamra",
+      "language": "en",
+      "urls": ["https://www.youtube.com/@pranjalkamra"]
+    }
+  ]
+}
