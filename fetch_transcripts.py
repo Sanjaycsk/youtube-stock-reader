@@ -33,7 +33,7 @@ UPLOADS_FEED = "https://www.youtube.com/feeds/videos.xml?channel_id={cid}"
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; StockReader/1.0)"}
 
 MAX_VIDEOS_PER_CHANNEL = 4    # newest N uploads per channel
-KEEP_DAYS = 4                 # prune entries older than this many days
+KEEP_DAYS = 5                 # keep a rolling 5-day window of transcripts
 MAX_TRANSCRIPT_CHARS = 5000   # cap each transcript so the cloud file stays lean
 
 
