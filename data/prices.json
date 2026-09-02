@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-01",
-  "last_updated_utc": "2026-09-01T04:50:14+00:00",
+  "last_updated": "2026-09-02",
+  "last_updated_utc": "2026-09-02T02:31:42+00:00",
   "source": "yfinance (Yahoo) EOD — as-traded close; technicals on adjusted series",
   "instrument_count": 26,
   "failed": [],
@@ -8,15 +8,15 @@
   "instruments": {
     "RELIANCE": {
       "date": "2026-09-01",
-      "close": 1303.6,
+      "close": 1309.0,
       "prev_close": 1277.0,
-      "change_pct": 2.08,
-      "dma20": 1309.99,
-      "dma50": 1303.24,
-      "dma200": 1387.89,
-      "pct_vs_dma50": 0.0,
-      "pct_vs_dma200": -6.1,
-      "rsi14": 40.7,
+      "change_pct": 2.51,
+      "dma20": 1310.26,
+      "dma50": 1303.35,
+      "dma200": 1387.91,
+      "pct_vs_dma50": 0.4,
+      "pct_vs_dma200": -5.7,
+      "rsi14": 43.0,
       "high_52w": 1592.3,
       "low_52w": 1258.8,
       "recent_closes": [
@@ -50,23 +50,23 @@
         },
         {
           "date": "2026-09-01",
-          "close": 1303.6
+          "close": 1309.0
         }
       ]
     },
     "HDFCBANK": {
       "date": "2026-09-01",
-      "close": 706.35,
+      "close": 711.9,
       "prev_close": 709.0,
-      "change_pct": -0.37,
-      "dma20": 724.78,
-      "dma50": 761.13,
-      "dma200": 832.49,
-      "pct_vs_dma50": -7.2,
-      "pct_vs_dma200": -15.2,
-      "rsi14": 33.2,
+      "change_pct": 0.41,
+      "dma20": 725.06,
+      "dma50": 761.24,
+      "dma200": 832.52,
+      "pct_vs_dma50": -6.5,
+      "pct_vs_dma200": -14.5,
+      "rsi14": 37.3,
       "high_52w": 1009.5,
-      "low_52w": 706.35,
+      "low_52w": 709.0,
       "recent_closes": [
         {
           "date": "2026-08-21",
@@ -98,24 +98,28 @@
         },
         {
           "date": "2026-09-01",
-          "close": 706.35
+          "close": 711.9
         }
       ]
     },
     "ICICIBANK": {
-      "date": "2026-09-01",
-      "close": 1443.1,
-      "prev_close": 1454.0,
-      "change_pct": -0.75,
-      "dma20": 1426.87,
-      "dma50": 1414.77,
-      "dma200": 1344.95,
-      "pct_vs_dma50": 2.0,
-      "pct_vs_dma200": 7.3,
-      "rsi14": 53.5,
+      "date": "2026-08-31",
+      "close": 1454.0,
+      "prev_close": 1422.8,
+      "change_pct": 2.19,
+      "dma20": 1427.44,
+      "dma50": 1412.45,
+      "dma200": 1344.54,
+      "pct_vs_dma50": 2.9,
+      "pct_vs_dma200": 8.1,
+      "rsi14": 57.9,
       "high_52w": 1463.1,
       "low_52w": 1205.9,
       "recent_closes": [
+        {
+          "date": "2026-08-20",
+          "close": 1411.9
+        },
         {
           "date": "2026-08-21",
           "close": 1420.0
@@ -143,24 +147,20 @@
         {
           "date": "2026-08-31",
           "close": 1454.0
-        },
-        {
-          "date": "2026-09-01",
-          "close": 1443.1
         }
       ]
     },
     "TCS": {
       "date": "2026-09-01",
-      "close": 2346.2,
+      "close": 2369.0,
       "prev_close": 2399.3,
-      "change_pct": -2.21,
-      "dma20": 2343.21,
-      "dma50": 2253.71,
-      "dma200": 2560.8,
-      "pct_vs_dma50": 4.1,
-      "pct_vs_dma200": -8.4,
-      "rsi14": 49.6,
+      "change_pct": -1.26,
+      "dma20": 2344.35,
+      "dma50": 2254.17,
+      "dma200": 2560.92,
+      "pct_vs_dma50": 5.1,
+      "pct_vs_dma200": -7.5,
+      "rsi14": 52.4,
       "high_52w": 3324.9,
       "low_52w": 1982.6,
       "recent_closes": [
@@ -194,21 +194,21 @@
         },
         {
           "date": "2026-09-01",
-          "close": 2346.2
+          "close": 2369.0
         }
       ]
     },
     "INFY": {
       "date": "2026-09-01",
-      "close": 1141.7,
+      "close": 1156.0,
       "prev_close": 1133.8,
-      "change_pct": 0.7,
-      "dma20": 1147.9,
-      "dma50": 1104.69,
-      "dma200": 1291.56,
-      "pct_vs_dma50": 3.4,
-      "pct_vs_dma200": -11.6,
-      "rsi14": 41.1,
+      "change_pct": 1.96,
+      "dma20": 1148.62,
+      "dma50": 1104.98,
+      "dma200": 1291.63,
+      "pct_vs_dma50": 4.6,
+      "pct_vs_dma200": -10.5,
+      "rsi14": 45.1,
       "high_52w": 1689.8,
       "low_52w": 985.3,
       "recent_closes": [
@@ -242,21 +242,21 @@
         },
         {
           "date": "2026-09-01",
-          "close": 1141.7
+          "close": 1156.0
         }
       ]
     },
     "BHARTIARTL": {
       "date": "2026-09-01",
-      "close": 1858.6,
+      "close": 1877.2,
       "prev_close": 1811.9,
-      "change_pct": 2.58,
-      "dma20": 1927.44,
-      "dma50": 1908.56,
-      "dma200": 1917.73,
-      "pct_vs_dma50": -2.6,
-      "pct_vs_dma200": -3.1,
-      "rsi14": 38.2,
+      "change_pct": 3.6,
+      "dma20": 1928.37,
+      "dma50": 1908.94,
+      "dma200": 1917.82,
+      "pct_vs_dma50": -1.7,
+      "pct_vs_dma200": -2.1,
+      "rsi14": 41.2,
       "high_52w": 2162.7,
       "low_52w": 1756.8,
       "recent_closes": [
@@ -290,21 +290,21 @@
         },
         {
           "date": "2026-09-01",
-          "close": 1858.6
+          "close": 1877.2
         }
       ]
     },
     "ITC": {
       "date": "2026-09-01",
-      "close": 262.3,
+      "close": 266.6,
       "prev_close": 255.5,
-      "change_pct": 2.66,
-      "dma20": 273.44,
-      "dma50": 280.17,
-      "dma200": 309.12,
-      "pct_vs_dma50": -6.4,
-      "pct_vs_dma200": -15.1,
-      "rsi14": 34.7,
+      "change_pct": 4.34,
+      "dma20": 273.65,
+      "dma50": 280.25,
+      "dma200": 309.14,
+      "pct_vs_dma50": -4.9,
+      "pct_vs_dma200": -13.8,
+      "rsi14": 40.4,
       "high_52w": 421.6,
       "low_52w": 255.5,
       "recent_closes": [
@@ -338,21 +338,21 @@
         },
         {
           "date": "2026-09-01",
-          "close": 262.3
+          "close": 266.6
         }
       ]
     },
     "HINDUNILVR": {
       "date": "2026-09-01",
-      "close": 1980.7,
+      "close": 1994.8,
       "prev_close": 1967.4,
-      "change_pct": 0.68,
-      "dma20": 2042.06,
-      "dma50": 2103.01,
-      "dma200": 2216.24,
-      "pct_vs_dma50": -5.8,
-      "pct_vs_dma200": -10.6,
-      "rsi14": 30.8,
+      "change_pct": 1.39,
+      "dma20": 2042.77,
+      "dma50": 2103.29,
+      "dma200": 2216.31,
+      "pct_vs_dma50": -5.2,
+      "pct_vs_dma200": -10.0,
+      "rsi14": 35.1,
       "high_52w": 2677.0,
       "low_52w": 1967.4,
       "recent_closes": [
@@ -386,21 +386,21 @@
         },
         {
           "date": "2026-09-01",
-          "close": 1980.7
+          "close": 1994.8
         }
       ]
     },
     "LT": {
       "date": "2026-09-01",
-      "close": 4009.2,
+      "close": 3980.1,
       "prev_close": 4044.9,
-      "change_pct": -0.88,
-      "dma20": 4059.01,
-      "dma50": 3994.63,
-      "dma200": 3960.67,
-      "pct_vs_dma50": 0.4,
-      "pct_vs_dma200": 1.2,
-      "rsi14": 48.5,
+      "change_pct": -1.6,
+      "dma20": 4057.56,
+      "dma50": 3994.05,
+      "dma200": 3960.52,
+      "pct_vs_dma50": -0.3,
+      "pct_vs_dma200": 0.5,
+      "rsi14": 45.0,
       "high_52w": 4418.1,
       "low_52w": 3342.4,
       "recent_closes": [
@@ -434,21 +434,21 @@
         },
         {
           "date": "2026-09-01",
-          "close": 4009.2
+          "close": 3980.1
         }
       ]
     },
     "MARUTI": {
       "date": "2026-09-01",
-      "close": 13419.0,
+      "close": 12950.0,
       "prev_close": 13547.0,
-      "change_pct": -0.94,
-      "dma20": 13742.1,
-      "dma50": 13733.62,
-      "dma200": 14202.8,
-      "pct_vs_dma50": -2.3,
-      "pct_vs_dma200": -5.5,
-      "rsi14": 32.8,
+      "change_pct": -4.41,
+      "dma20": 13718.65,
+      "dma50": 13724.24,
+      "dma200": 14200.45,
+      "pct_vs_dma50": -5.6,
+      "pct_vs_dma200": -8.8,
+      "rsi14": 24.2,
       "high_52w": 17292.0,
       "low_52w": 12306.0,
       "recent_closes": [
@@ -482,24 +482,28 @@
         },
         {
           "date": "2026-09-01",
-          "close": 13419.0
+          "close": 12950.0
         }
       ]
     },
     "SUNPHARMA": {
-      "date": "2026-09-01",
-      "close": 1934.6,
-      "prev_close": 1984.8,
-      "change_pct": -2.53,
-      "dma20": 1923.81,
-      "dma50": 1926.08,
-      "dma200": 1794.82,
-      "pct_vs_dma50": 0.4,
-      "pct_vs_dma200": 7.8,
-      "rsi14": 48.3,
+      "date": "2026-08-31",
+      "close": 1984.8,
+      "prev_close": 1920.0,
+      "change_pct": 3.37,
+      "dma20": 1925.28,
+      "dma50": 1924.65,
+      "dma200": 1793.85,
+      "pct_vs_dma50": 3.1,
+      "pct_vs_dma200": 10.6,
+      "rsi14": 59.4,
       "high_52w": 2001.1,
       "low_52w": 1563.3,
       "recent_closes": [
+        {
+          "date": "2026-08-20",
+          "close": 1904.0
+        },
         {
           "date": "2026-08-21",
           "close": 1902.4
@@ -527,24 +531,20 @@
         {
           "date": "2026-08-31",
           "close": 1984.8
-        },
-        {
-          "date": "2026-09-01",
-          "close": 1934.6
         }
       ]
     },
     "TATASTEEL": {
       "date": "2026-09-01",
-      "close": 182.77,
+      "close": 184.07,
       "prev_close": 184.35,
-      "change_pct": -0.86,
-      "dma20": 186.33,
-      "dma50": 187.08,
+      "change_pct": -0.15,
+      "dma20": 186.39,
+      "dma50": 187.11,
       "dma200": 189.86,
-      "pct_vs_dma50": -2.3,
-      "pct_vs_dma200": -3.7,
-      "rsi14": 40.7,
+      "pct_vs_dma50": -1.6,
+      "pct_vs_dma200": -3.0,
+      "rsi14": 43.8,
       "high_52w": 221.13,
       "low_52w": 156.17,
       "recent_closes": [
@@ -578,21 +578,21 @@
         },
         {
           "date": "2026-09-01",
-          "close": 182.77
+          "close": 184.07
         }
       ]
     },
     "SBIN": {
       "date": "2026-09-01",
-      "close": 1044.3,
+      "close": 1034.5,
       "prev_close": 1060.0,
-      "change_pct": -1.48,
-      "dma20": 1060.03,
-      "dma50": 1043.63,
-      "dma200": 1028.55,
-      "pct_vs_dma50": 0.1,
-      "pct_vs_dma200": 1.5,
-      "rsi14": 31.2,
+      "change_pct": -2.41,
+      "dma20": 1059.54,
+      "dma50": 1043.44,
+      "dma200": 1028.5,
+      "pct_vs_dma50": -0.9,
+      "pct_vs_dma200": 0.6,
+      "rsi14": 28.4,
       "high_52w": 1227.8,
       "low_52w": 803.9,
       "recent_closes": [
@@ -626,21 +626,21 @@
         },
         {
           "date": "2026-09-01",
-          "close": 1044.3
+          "close": 1034.5
         }
       ]
     },
     "FEDERALBNK": {
       "date": "2026-09-01",
-      "close": 349.0,
+      "close": 349.25,
       "prev_close": 356.7,
-      "change_pct": -2.16,
-      "dma20": 353.15,
+      "change_pct": -2.09,
+      "dma20": 353.16,
       "dma50": 344.87,
       "dma200": 295.08,
-      "pct_vs_dma50": 1.2,
-      "pct_vs_dma200": 18.3,
-      "rsi14": 44.3,
+      "pct_vs_dma50": 1.3,
+      "pct_vs_dma200": 18.4,
+      "rsi14": 44.5,
       "high_52w": 371.7,
       "low_52w": 189.9,
       "recent_closes": [
@@ -674,21 +674,21 @@
         },
         {
           "date": "2026-09-01",
-          "close": 349.0
+          "close": 349.25
         }
       ]
     },
     "SUZLON": {
       "date": "2026-09-01",
-      "close": 46.77,
+      "close": 46.5,
       "prev_close": 47.52,
-      "change_pct": -1.58,
-      "dma20": 47.37,
+      "change_pct": -2.15,
+      "dma20": 47.35,
       "dma50": 50.9,
       "dma200": 50.39,
-      "pct_vs_dma50": -8.1,
-      "pct_vs_dma200": -7.2,
-      "rsi14": 46.3,
+      "pct_vs_dma50": -8.6,
+      "pct_vs_dma200": -7.7,
+      "rsi14": 44.8,
       "high_52w": 60.4,
       "low_52w": 39.56,
       "recent_closes": [
@@ -722,21 +722,21 @@
         },
         {
           "date": "2026-09-01",
-          "close": 46.77
+          "close": 46.5
         }
       ]
     },
     "TATAPOWER": {
       "date": "2026-09-01",
-      "close": 348.25,
+      "close": 350.55,
       "prev_close": 347.0,
-      "change_pct": 0.36,
-      "dma20": 372.33,
-      "dma50": 376.61,
-      "dma200": 386.95,
-      "pct_vs_dma50": -7.5,
-      "pct_vs_dma200": -10.0,
-      "rsi14": 11.4,
+      "change_pct": 1.02,
+      "dma20": 372.44,
+      "dma50": 376.66,
+      "dma200": 386.96,
+      "pct_vs_dma50": -6.9,
+      "pct_vs_dma200": -9.4,
+      "rsi14": 16.2,
       "high_52w": 461.8,
       "low_52w": 345.25,
       "recent_closes": [
@@ -770,21 +770,21 @@
         },
         {
           "date": "2026-09-01",
-          "close": 348.25
+          "close": 350.55
         }
       ]
     },
     "WAAREEENER": {
       "date": "2026-09-01",
-      "close": 2595.0,
+      "close": 2588.0,
       "prev_close": 2605.0,
-      "change_pct": -0.38,
-      "dma20": 2669.7,
-      "dma50": 2757.89,
-      "dma200": 2947.18,
-      "pct_vs_dma50": -5.9,
-      "pct_vs_dma200": -11.9,
-      "rsi14": 32.1,
+      "change_pct": -0.65,
+      "dma20": 2669.35,
+      "dma50": 2757.75,
+      "dma200": 2947.14,
+      "pct_vs_dma50": -6.2,
+      "pct_vs_dma200": -12.2,
+      "rsi14": 31.0,
       "high_52w": 3739.8,
       "low_52w": 2419.0,
       "recent_closes": [
@@ -818,21 +818,21 @@
         },
         {
           "date": "2026-09-01",
-          "close": 2595.0
+          "close": 2588.0
         }
       ]
     },
     "NTPC": {
       "date": "2026-09-01",
-      "close": 325.1,
+      "close": 327.5,
       "prev_close": 327.4,
-      "change_pct": -0.7,
-      "dma20": 337.78,
-      "dma50": 344.9,
-      "dma200": 357.38,
-      "pct_vs_dma50": -5.7,
-      "pct_vs_dma200": -9.0,
-      "rsi14": 27.4,
+      "change_pct": 0.03,
+      "dma20": 334.29,
+      "dma50": 341.26,
+      "dma200": 353.57,
+      "pct_vs_dma50": -5.1,
+      "pct_vs_dma200": -8.4,
+      "rsi14": 29.8,
       "high_52w": 410.2,
       "low_52w": 318.5,
       "recent_closes": [
@@ -866,21 +866,21 @@
         },
         {
           "date": "2026-09-01",
-          "close": 325.1
+          "close": 327.5
         }
       ]
     },
     "ADANIENT": {
       "date": "2026-09-01",
-      "close": 2901.0,
+      "close": 2863.9,
       "prev_close": 2859.1,
-      "change_pct": 1.47,
-      "dma20": 3019.87,
-      "dma50": 3065.91,
-      "dma200": 2508.01,
-      "pct_vs_dma50": -5.4,
-      "pct_vs_dma200": 15.7,
-      "rsi14": 43.6,
+      "change_pct": 0.17,
+      "dma20": 3018.02,
+      "dma50": 3065.17,
+      "dma200": 2507.83,
+      "pct_vs_dma50": -6.6,
+      "pct_vs_dma200": 14.2,
+      "rsi14": 40.3,
       "high_52w": 3212.1,
       "low_52w": 1758.8,
       "recent_closes": [
@@ -914,21 +914,21 @@
         },
         {
           "date": "2026-09-01",
-          "close": 2901.0
+          "close": 2863.9
         }
       ]
     },
     "BEL": {
       "date": "2026-09-01",
-      "close": 410.8,
+      "close": 411.2,
       "prev_close": 414.45,
-      "change_pct": -0.88,
-      "dma20": 407.92,
+      "change_pct": -0.78,
+      "dma20": 407.94,
       "dma50": 406.8,
       "dma200": 418.14,
-      "pct_vs_dma50": 1.0,
-      "pct_vs_dma200": -1.8,
-      "rsi14": 56.7,
+      "pct_vs_dma50": 1.1,
+      "pct_vs_dma200": -1.7,
+      "rsi14": 57.2,
       "high_52w": 468.45,
       "low_52w": 370.8,
       "recent_closes": [
@@ -962,21 +962,21 @@
         },
         {
           "date": "2026-09-01",
-          "close": 410.8
+          "close": 411.2
         }
       ]
     },
     "BHEL": {
       "date": "2026-09-01",
-      "close": 429.8,
+      "close": 426.55,
       "prev_close": 442.65,
-      "change_pct": -2.9,
-      "dma20": 419.39,
-      "dma50": 410.85,
-      "dma200": 332.28,
-      "pct_vs_dma50": 4.6,
-      "pct_vs_dma200": 29.3,
-      "rsi14": 55.2,
+      "change_pct": -3.64,
+      "dma20": 419.23,
+      "dma50": 410.79,
+      "dma200": 332.26,
+      "pct_vs_dma50": 3.8,
+      "pct_vs_dma200": 28.4,
+      "rsi14": 53.4,
       "high_52w": 442.65,
       "low_52w": 211.09,
       "recent_closes": [
@@ -1010,21 +1010,21 @@
         },
         {
           "date": "2026-09-01",
-          "close": 429.8
+          "close": 426.55
         }
       ]
     },
     "VEDL": {
       "date": "2026-09-01",
-      "close": 278.55,
+      "close": 274.0,
       "prev_close": 278.2,
-      "change_pct": 0.13,
-      "dma20": 275.57,
-      "dma50": 271.9,
-      "dma200": 485.86,
-      "pct_vs_dma50": 2.4,
-      "pct_vs_dma200": -42.7,
-      "rsi14": 51.9,
+      "change_pct": -1.51,
+      "dma20": 275.34,
+      "dma50": 271.81,
+      "dma200": 485.84,
+      "pct_vs_dma50": 0.8,
+      "pct_vs_dma200": -43.6,
+      "rsi14": 48.8,
       "high_52w": 787.5,
       "low_52w": 253.05,
       "recent_closes": [
@@ -1058,21 +1058,21 @@
         },
         {
           "date": "2026-09-01",
-          "close": 278.55
+          "close": 274.0
         }
       ]
     },
     "BPCL": {
       "date": "2026-09-01",
-      "close": 318.4,
+      "close": 317.65,
       "prev_close": 324.05,
-      "change_pct": -1.74,
-      "dma20": 317.0,
-      "dma50": 314.2,
+      "change_pct": -1.98,
+      "dma20": 316.96,
+      "dma50": 314.19,
       "dma200": 326.75,
-      "pct_vs_dma50": 1.3,
-      "pct_vs_dma200": -2.6,
-      "rsi14": 51.7,
+      "pct_vs_dma50": 1.1,
+      "pct_vs_dma200": -2.8,
+      "rsi14": 50.8,
       "high_52w": 388.3,
       "low_52w": 271.3,
       "recent_closes": [
@@ -1106,21 +1106,21 @@
         },
         {
           "date": "2026-09-01",
-          "close": 318.4
+          "close": 317.65
         }
       ]
     },
     "GROWWN200": {
-      "date": "2026-09-01",
-      "close": 11.39,
+      "date": "2026-08-31",
+      "close": 11.4,
       "prev_close": 11.39,
-      "change_pct": 0.0,
+      "change_pct": 0.09,
       "dma20": 11.49,
       "dma50": 11.38,
       "dma200": 11.32,
-      "pct_vs_dma50": 0.1,
-      "pct_vs_dma200": 0.6,
-      "rsi14": 36.9,
+      "pct_vs_dma50": 0.2,
+      "pct_vs_dma200": 0.7,
+      "rsi14": 37.9,
       "high_52w": 11.86,
       "low_52w": 10.13,
       "recent_closes": [
@@ -1153,22 +1153,22 @@
           "close": 11.39
         },
         {
-          "date": "2026-09-01",
-          "close": 11.39
+          "date": "2026-08-31",
+          "close": 11.4
         }
       ]
     },
     "GOLDBEES": {
-      "date": "2026-09-01",
-      "close": 126.81,
+      "date": "2026-08-31",
+      "close": 127.32,
       "prev_close": 130.85,
-      "change_pct": -3.09,
-      "dma20": 126.71,
-      "dma50": 121.08,
-      "dma200": 121.18,
-      "pct_vs_dma50": 4.7,
-      "pct_vs_dma200": 4.6,
-      "rsi14": 53.3,
+      "change_pct": -2.7,
+      "dma20": 126.74,
+      "dma50": 121.09,
+      "dma200": 121.19,
+      "pct_vs_dma50": 5.1,
+      "pct_vs_dma200": 5.1,
+      "rsi14": 54.8,
       "high_52w": 146.53,
       "low_52w": 86.61,
       "recent_closes": [
@@ -1201,22 +1201,22 @@
           "close": 130.85
         },
         {
-          "date": "2026-09-01",
-          "close": 126.81
+          "date": "2026-08-31",
+          "close": 127.32
         }
       ]
     },
     "SILVERBEES": {
-      "date": "2026-09-01",
-      "close": 221.88,
+      "date": "2026-08-31",
+      "close": 223.21,
       "prev_close": 230.42,
-      "change_pct": -3.71,
-      "dma20": 222.8,
-      "dma50": 215.45,
+      "change_pct": -3.13,
+      "dma20": 222.87,
+      "dma50": 215.48,
       "dma200": 225.07,
-      "pct_vs_dma50": 3.0,
-      "pct_vs_dma200": -1.4,
-      "rsi14": 49.6,
+      "pct_vs_dma50": 3.6,
+      "pct_vs_dma200": -0.8,
+      "rsi14": 50.8,
       "high_52w": 351.91,
       "low_52w": 117.91,
       "recent_closes": [
@@ -1249,8 +1249,8 @@
           "close": 230.42
         },
         {
-          "date": "2026-09-01",
-          "close": 221.88
+          "date": "2026-08-31",
+          "close": 223.21
         }
       ]
     }
@@ -1258,8 +1258,8 @@
   "benchmarks": {
     "NIFTY50": {
       "date": "2026-09-01",
-      "close": 24050.3,
-      "change_pct": -0.12
+      "close": 24055.8,
+      "change_pct": -0.1
     }
   }
 }
