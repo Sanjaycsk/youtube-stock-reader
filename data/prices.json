@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-05",
-  "last_updated_utc": "2026-09-05T04:05:15+00:00",
+  "last_updated": "2026-09-06",
+  "last_updated_utc": "2026-09-06T05:12:51+00:00",
   "source": "yfinance (Yahoo) EOD — as-traded close; technicals on adjusted series",
   "instrument_count": 26,
   "failed": [],
@@ -391,23 +391,19 @@
       ]
     },
     "LT": {
-      "date": "2026-09-03",
-      "close": 3975.0,
-      "prev_close": 3981.0,
-      "change_pct": -0.15,
-      "dma20": 4049.42,
-      "dma50": 3985.21,
-      "dma200": 3960.56,
-      "pct_vs_dma50": -0.3,
-      "pct_vs_dma200": 0.4,
-      "rsi14": 38.0,
+      "date": "2026-09-04",
+      "close": 3964.1,
+      "prev_close": 3975.0,
+      "change_pct": -0.27,
+      "dma20": 4044.82,
+      "dma50": 3980.16,
+      "dma200": 3960.47,
+      "pct_vs_dma50": -0.4,
+      "pct_vs_dma200": 0.1,
+      "rsi14": 31.0,
       "high_52w": 4418.1,
       "low_52w": 3342.4,
       "recent_closes": [
-        {
-          "date": "2026-08-25",
-          "close": 4119.0
-        },
         {
           "date": "2026-08-26",
           "close": 4038.1
@@ -435,6 +431,10 @@
         {
           "date": "2026-09-03",
           "close": 3975.0
+        },
+        {
+          "date": "2026-09-04",
+          "close": 3964.1
         }
       ]
     },
@@ -1111,23 +1111,19 @@
       ]
     },
     "GROWWN200": {
-      "date": "2026-09-03",
-      "close": 11.33,
-      "prev_close": 11.31,
-      "change_pct": 0.18,
-      "dma20": 11.46,
+      "date": "2026-09-04",
+      "close": 11.34,
+      "prev_close": 11.33,
+      "change_pct": 0.09,
+      "dma20": 11.44,
       "dma50": 11.39,
       "dma200": 11.31,
-      "pct_vs_dma50": -0.5,
-      "pct_vs_dma200": 0.2,
-      "rsi14": 33.3,
+      "pct_vs_dma50": -0.4,
+      "pct_vs_dma200": 0.3,
+      "rsi14": 34.3,
       "high_52w": 11.86,
       "low_52w": 10.13,
       "recent_closes": [
-        {
-          "date": "2026-08-25",
-          "close": 11.49
-        },
         {
           "date": "2026-08-26",
           "close": 11.46
@@ -1155,27 +1151,27 @@
         {
           "date": "2026-09-03",
           "close": 11.33
+        },
+        {
+          "date": "2026-09-04",
+          "close": 11.34
         }
       ]
     },
     "GOLDBEES": {
-      "date": "2026-09-03",
-      "close": 126.23,
-      "prev_close": 123.52,
-      "change_pct": 2.19,
-      "dma20": 127.54,
-      "dma50": 121.56,
-      "dma200": 121.53,
-      "pct_vs_dma50": 3.8,
-      "pct_vs_dma200": 3.9,
-      "rsi14": 52.4,
+      "date": "2026-09-04",
+      "close": 127.17,
+      "prev_close": 126.23,
+      "change_pct": 0.74,
+      "dma20": 127.73,
+      "dma50": 121.81,
+      "dma200": 121.65,
+      "pct_vs_dma50": 4.4,
+      "pct_vs_dma200": 4.5,
+      "rsi14": 51.6,
       "high_52w": 146.53,
       "low_52w": 88.16,
       "recent_closes": [
-        {
-          "date": "2026-08-25",
-          "close": 132.78
-        },
         {
           "date": "2026-08-26",
           "close": 132.37
@@ -1203,27 +1199,27 @@
         {
           "date": "2026-09-03",
           "close": 126.23
+        },
+        {
+          "date": "2026-09-04",
+          "close": 127.17
         }
       ]
     },
     "SILVERBEES": {
-      "date": "2026-09-03",
-      "close": 219.88,
-      "prev_close": 215.45,
-      "change_pct": 2.06,
-      "dma20": 223.76,
-      "dma50": 215.84,
-      "dma200": 226.09,
-      "pct_vs_dma50": 1.9,
-      "pct_vs_dma200": -2.7,
-      "rsi14": 48.9,
+      "date": "2026-09-04",
+      "close": 222.78,
+      "prev_close": 219.88,
+      "change_pct": 1.32,
+      "dma20": 223.88,
+      "dma50": 216.16,
+      "dma200": 226.46,
+      "pct_vs_dma50": 3.1,
+      "pct_vs_dma200": -1.6,
+      "rsi14": 49.3,
       "high_52w": 351.91,
       "low_52w": 119.01,
       "recent_closes": [
-        {
-          "date": "2026-08-25",
-          "close": 229.0
-        },
         {
           "date": "2026-08-26",
           "close": 230.13
@@ -1251,6 +1247,10 @@
         {
           "date": "2026-09-03",
           "close": 219.88
+        },
+        {
+          "date": "2026-09-04",
+          "close": 222.78
         }
       ]
     }
