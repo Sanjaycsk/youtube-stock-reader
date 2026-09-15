@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-13",
-  "last_updated_utc": "2026-09-13T02:31:27+00:00",
+  "last_updated": "2026-09-15",
+  "last_updated_utc": "2026-09-15T02:40:54+00:00",
   "source": "yfinance (Yahoo) EOD — as-traded close; technicals on adjusted series",
   "instrument_count": 26,
   "failed": [],
@@ -353,7 +353,7 @@
       "pct_vs_dma50": -7.1,
       "pct_vs_dma200": -12.4,
       "rsi14": 29.2,
-      "high_52w": 2622.0,
+      "high_52w": 2603.7,
       "low_52w": 1927.0,
       "recent_closes": [
         {
@@ -594,7 +594,7 @@
       "pct_vs_dma200": -3.4,
       "rsi14": 33.2,
       "high_52w": 1227.8,
-      "low_52w": 823.55,
+      "low_52w": 824.75,
       "recent_closes": [
         {
           "date": "2026-09-02",
@@ -785,7 +785,7 @@
       "pct_vs_dma50": -2.8,
       "pct_vs_dma200": -10.1,
       "rsi14": 43.1,
-      "high_52w": 3739.8,
+      "high_52w": 3627.4,
       "low_52w": 2419.0,
       "recent_closes": [
         {
@@ -978,7 +978,7 @@
       "pct_vs_dma200": 27.5,
       "rsi14": 60.9,
       "high_52w": 442.65,
-      "low_52w": 228.72,
+      "low_52w": 229.67,
       "recent_closes": [
         {
           "date": "2026-09-02",
@@ -1170,7 +1170,7 @@
       "pct_vs_dma200": 2.4,
       "rsi14": 28.2,
       "high_52w": 146.53,
-      "low_52w": 90.62,
+      "low_52w": 90.92,
       "recent_closes": [
         {
           "date": "2026-09-02",
@@ -1218,7 +1218,7 @@
       "pct_vs_dma200": -5.1,
       "rsi14": 34.0,
       "high_52w": 351.91,
-      "low_52w": 119.3,
+      "low_52w": 121.76,
       "recent_closes": [
         {
           "date": "2026-09-02",
