@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-09",
-  "last_updated_utc": "2026-10-09T16:06:23+00:00",
+  "last_updated": "2026-10-10",
+  "last_updated_utc": "2026-10-10T10:34:25+00:00",
   "source": "yfinance (Yahoo) EOD — as-traded close; technicals on adjusted series",
   "instrument_count": 26,
   "failed": [],
@@ -1111,16 +1111,16 @@
       ]
     },
     "GROWWN200": {
-      "date": "2026-10-09",
-      "close": 10.62,
+      "date": "2026-10-08",
+      "close": 10.53,
       "prev_close": 10.71,
-      "change_pct": -0.84,
-      "dma20": 10.91,
+      "change_pct": -1.68,
+      "dma20": 10.9,
       "dma50": 11.23,
       "dma200": 11.23,
-      "pct_vs_dma50": -5.4,
-      "pct_vs_dma200": -5.4,
-      "rsi14": 32.8,
+      "pct_vs_dma50": -6.2,
+      "pct_vs_dma200": -6.2,
+      "rsi14": 30.5,
       "high_52w": 11.86,
       "low_52w": 10.13,
       "recent_closes": [
@@ -1153,22 +1153,22 @@
           "close": 10.71
         },
         {
-          "date": "2026-10-09",
-          "close": 10.62
+          "date": "2026-10-08",
+          "close": 10.53
         }
       ]
     },
     "GOLDBEES": {
-      "date": "2026-10-09",
-      "close": 122.75,
+      "date": "2026-10-08",
+      "close": 120.94,
       "prev_close": 121.08,
-      "change_pct": 1.38,
-      "dma20": 123.57,
-      "dma50": 124.57,
-      "dma200": 123.38,
-      "pct_vs_dma50": -1.5,
-      "pct_vs_dma200": -0.5,
-      "rsi14": 43.7,
+      "change_pct": -0.12,
+      "dma20": 123.48,
+      "dma50": 124.53,
+      "dma200": 123.37,
+      "pct_vs_dma50": -2.9,
+      "pct_vs_dma200": -2.0,
+      "rsi14": 35.2,
       "high_52w": 146.53,
       "low_52w": 96.84,
       "recent_closes": [
@@ -1201,22 +1201,22 @@
           "close": 121.08
         },
         {
-          "date": "2026-10-09",
-          "close": 122.75
+          "date": "2026-10-08",
+          "close": 120.94
         }
       ]
     },
     "SILVERBEES": {
-      "date": "2026-10-09",
-      "close": 209.68,
+      "date": "2026-10-08",
+      "close": 205.87,
       "prev_close": 209.02,
-      "change_pct": 0.32,
-      "dma20": 215.68,
-      "dma50": 218.28,
-      "dma200": 231.1,
-      "pct_vs_dma50": -3.9,
-      "pct_vs_dma200": -9.3,
-      "rsi14": 40.3,
+      "change_pct": -1.51,
+      "dma20": 215.49,
+      "dma50": 218.21,
+      "dma200": 231.08,
+      "pct_vs_dma50": -5.7,
+      "pct_vs_dma200": -10.9,
+      "rsi14": 36.0,
       "high_52w": 351.91,
       "low_52w": 133.81,
       "recent_closes": [
@@ -1249,8 +1249,8 @@
           "close": 209.02
         },
         {
-          "date": "2026-10-09",
-          "close": 209.68
+          "date": "2026-10-08",
+          "close": 205.87
         }
       ]
     }
